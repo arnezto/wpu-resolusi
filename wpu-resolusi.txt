@@ -1,4 +1,6 @@
-WPU Resolusi
+WPU RESOLUSI
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat platform untuk pengelolaan video materi
 - Membuat forum diskusi
+- Membuat layanan chat online
+- Membuat fitur download e-books
