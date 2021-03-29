@@ -7,4 +7,4 @@ RENCANA KONTEN E-LEARNING
   - Category Profile
   - e-commerce
 - Membuat materi video PHP Frameworks
-  - CodeIgniter
+  - Laravel
