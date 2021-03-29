@@ -4,6 +4,7 @@ RENCANA KONTEN E-LEARNING
 - Membuat materi video Bootstrap
   - Membuat Fungsi Struktur Data Dasar
 - Membuat materi video PHP Native
-- Membuat materi video PHP Frameworks
   - Category Profile
   - e-commerce
+- Membuat materi video PHP Frameworks
+  - Laravel
